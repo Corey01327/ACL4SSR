@@ -41,3 +41,9 @@ DOMAIN,rewards.hypixel.net
 # Koodo Mobile
 DOMAIN-SUFFIX,koodomobile.com
 DOMAIN-SUFFIX,koodomobile.ca
+
+# ACM Digital Library
+DOMAIN-SUFFIX,dl.acm.org
+
+#IEEE
+DOMAIN-SUFFIX,ieeexplore.ieee.org
